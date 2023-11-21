@@ -1,0 +1,3 @@
+F:/NewC++/HackerRank/Forming a Magic Square/cmake-build-debug/CMakeFiles/Mr__X_and_His_Shots.dir
+F:/NewC++/HackerRank/Forming a Magic Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/NewC++/HackerRank/Forming a Magic Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir
